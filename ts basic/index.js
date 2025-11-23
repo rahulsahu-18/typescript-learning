@@ -1,5 +1,4 @@
 // if i use simple js
-
 // function addTwo(a,b)
 // {
 //     if(typeof a === "number" && typeof b === "number")
@@ -9,12 +8,8 @@
 //         console.log("invalid parameter type in addTwo");
 //     }
 // }
-
-function addTwo(a:number,b:number)
-{
-    return a+b;
+function addTwo(a, b) {
+    return a + b;
 }
-
-const a = 10,b = 20;
-
-console.log(addTwo(a,b));
+var a = 10, b = 20;
+console.log(addTwo(a, b));
