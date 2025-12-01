@@ -13,6 +13,6 @@ gret("rahul");
 
 let combinedFun = Function;
 
-// combinedFun = "x" 
-combinedFun = function() {}
-combinedFun = add
+// combinedFun = "x"
+// combinedFun = function() {}
+// combinedFun = add
